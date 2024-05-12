@@ -23,7 +23,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a first year master student in Robotics Institution at Carnegie Mellon University. I am currently working in [LeCAR Lab](https://lecar-lab.github.io/) and [Air Lab](http://theairlab.org/), co-advised by [Prof. Guanya Shi](https://www.gshi.me/) and [Prof. Sebastian Scherer](https://theairlab.org/team/sebastian/). Previously I worked with [Prof. Yang Wang](https://magiclab.sist.shanghaitech.edu.cn/) at [MAgIC Lab](https://magiclab.sist.shanghaitech.edu.cn/) at ShanghaiTech University.
 
-My work focuses on **adaptive and agile locomotion of aerial and legged robots**. I aim to enpower robotic systems that are capable to dynamically adapt environment changes in real-time and learn continuously in real-world scenarios, utilizing methodologies from both the learning and control communities.
+My work focuses on **adaptive and agile locomotion of aerial and legged robots**. I aim to enpower robotic systems to dynamically adapt environment changes in real-time and learn continuously in real-world scenarios, utilizing methodologies from both the learning and control communities.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
