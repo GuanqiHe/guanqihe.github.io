@@ -34,13 +34,11 @@ My work focuses on **designing algorithms to help robots handle environmental di
 <br>
 <br>
 
-
 ### News
 
 - 2024-07-19: [ABS](https://agile-but-safe.github.io/) is the Outstanding Student Paper Award Finalist at RSS 2024.
 - 2024-07-12: [Flying Calligrapher](https://xiaofeng-guo.github.io/flying-calligrapher/) is reported on Video Friday by [IEEE Spectrum](https://spectrum.ieee.org/video-friday-unitree-talks-robots)
 - 2024-03-11: [Aerial Interaction with Tactile Sensing](https://sites.google.com/view/aerial-system-gelsight) accepted by ICRA
-
 
 <br>
 <br>
