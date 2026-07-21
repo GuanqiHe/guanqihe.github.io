@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 3
-display_categories: [legged robotics, aerial manipulation, control]
+display_categories: [legged robotics, aerial manipulation, control, humanoid robotics]
 horizontal: false
 ---
 
