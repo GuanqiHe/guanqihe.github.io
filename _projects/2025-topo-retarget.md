@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Topo Retarget
-description: Topology-aware motion retargeting for humanoid whole-body control.
-img:
+title: TopoRetarget
+description: Interaction-preserving retargeting for dexterous manipulation.
+img: assets/img/publication_preview/TopoRetarget.jpg
+redirect: https://tsinghua-mars-lab.github.io/toporetarget-web/
 importance: 11
 category: humanoid robotics
 selected: true
 ---
 
-Project page for topology-aware motion retargeting.
+Project page for interaction-preserving dexterous manipulation retargeting.
