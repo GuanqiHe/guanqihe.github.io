@@ -39,11 +39,13 @@ My work focuses on **designing algorithms to help robots handle environmental di
 
 - 2026-06-15: [TopoRetarget](https://tsinghua-mars-lab.github.io/toporetarget-web/) is released for interaction-preserving retargeting in dexterous manipulation.
 - 2026-06-09: [OMG](https://tsinghua-mars-lab.github.io/OMG/) receives an Oral at ExWBC @ RSS 2026 and a Spotlight at RoboData @ RSS 2026.
-- 2025: [Hold My Beer](https://lecar-lab.github.io/SoFTA/) and [Sampling-Based System Identification with Active Exploration](https://lecar-lab.github.io/spi-active_/) are accepted to CoRL 2025.
-- 2025: [Flying Hand](https://lecar-lab.github.io/flying_hand/) and [ASAP](https://agile.human2humanoid.com/) are accepted to RSS 2025.
-- 2025: [Self-Supervised Meta-Learning for All-Layer DNN-Based Adaptive Control](https://sites.google.com/view/ssml-ac-project/) is accepted to ICRA 2025.
+- 2025-05-30: [Hold My Beer](https://lecar-lab.github.io/SoFTA/) is released and accepted to CoRL 2025.
+- 2025-05-20: [Sampling-Based System Identification with Active Exploration](https://lecar-lab.github.io/spi-active_/) is released and accepted to CoRL 2025.
+- 2025-04-14: [Flying Hand](https://lecar-lab.github.io/flying_hand/) is released and accepted to RSS 2025.
+- 2025-02-03: [ASAP](https://agile.human2humanoid.com/) is released and accepted to RSS 2025.
+- 2024-10-10: [Self-Supervised Meta-Learning for All-Layer DNN-Based Adaptive Control](https://sites.google.com/view/ssml-ac-project/) is released and presented at ICRA 2025.
 - 2024-07-19: [ABS](https://agile-but-safe.github.io/) is the Outstanding Student Paper Award Finalist at RSS 2024.
-- 2024: [Flying Calligrapher](https://xiaofeng-guo.github.io/flying-calligrapher/) is published in RA-L 2024.
+- 2024-07-08: [Flying Calligrapher](https://xiaofeng-guo.github.io/flying-calligrapher/) is released and published in RA-L 2024.
 - 2024-03-11: [Aerial Interaction with Tactile Sensing](https://sites.google.com/view/aerial-system-gelsight) accepted by ICRA
 
 <br>
