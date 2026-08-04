@@ -2,7 +2,7 @@
 layout: page
 title: Sampling-Based System Identification with Active Exploration
 description: Active exploration for legged robot sim2real learning.
-img: assets/img/publication_preview/SPIActive.jpg
+img: assets/img/publication_preview/2025_SPI_Active.gif
 importance: 1
 category: legged robotics
 selected: true
