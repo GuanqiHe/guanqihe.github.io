@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TopoRetarget
-description: Interaction-preserving retargeting for dexterous manipulation.
+description: "Project Lead: Guanqi He. Interaction-preserving retargeting for dexterous manipulation."
 img: assets/img/publication_preview/TopoRetarget.jpg
 redirect: https://tsinghua-mars-lab.github.io/toporetarget-web/
 importance: 11
