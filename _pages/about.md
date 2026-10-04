@@ -37,6 +37,10 @@ My work focuses on **designing algorithms to help robots handle environmental di
 
 ### News
 
+- 2026-09-17: [Wuji VLA Post-Training](https://wuji.tech/blog/post-training-0) is on arXiv, combining supervised learning, DAgger, and residual reinforcement learning for high-DoF dexterous manipulation.
+- 2026-09-07: [OpenWAM](https://openwam-official.github.io/) is on arXiv, introducing an open, modular stack for systematic world-action model pretraining.
+- 2026-09-04: [MINT](https://zzj-asher.github.io/mint-project-page/) is on arXiv, jointly estimating world-space camera and hand motion from egocentric video.
+- 2026-08-23: [LD4WAM](https://stubborn111.github.io/LD4WAM/) is on arXiv, learning motion-aligned latent dynamics from human videos for world action models.
 - 2026-06-15: [TopoRetarget](https://tsinghua-mars-lab.github.io/toporetarget-web/) is released for interaction-preserving retargeting in dexterous manipulation.
 - 2026-06-09: [OMG](https://tsinghua-mars-lab.github.io/OMG/) receives an Oral at ExWBC @ RSS 2026 and a Spotlight at RoboData @ RSS 2026.
 - 2025-05-30: [Hold My Beer](https://lecar-lab.github.io/SoFTA/) is released and accepted to CoRL 2025.
